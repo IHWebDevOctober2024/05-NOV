@@ -1,0 +1,28 @@
+[
+  { "_id": "lesson-001", "title": "Introduction to the MERN Stack" },
+  { "_id": "lesson-002", "title": "Setting Up Your Development Environment" },
+  { "_id": "lesson-003", "title": "JavaScript Essentials for MERN" },
+  { "_id": "lesson-004", "title": "Understanding MongoDB and NoSQL" },
+  { "_id": "lesson-005", "title": "Working with Mongoose for MongoDB" },
+  { "_id": "lesson-006", "title": "Building a Basic Express Server" },
+  { "_id": "lesson-007", "title": "Creating RESTful APIs with Express" },
+  { "_id": "lesson-008", "title": "User Authentication with JWT" },
+  {
+    "_id": "lesson-009",
+    "title": "Introduction to React and Component Architecture"
+  },
+  { "_id": "lesson-010", "title": "React State and Props Management" },
+  { "_id": "lesson-011", "title": "Building Dynamic UIs with React Router" },
+  { "_id": "lesson-012", "title": "Connecting React to Express APIs" },
+  { "_id": "lesson-013", "title": "CRUD Operations in the MERN Stack" },
+  { "_id": "lesson-014", "title": "Advanced State Management with Redux" },
+  { "_id": "lesson-015", "title": "Handling Forms and Validation in React" },
+  { "_id": "lesson-016", "title": "File Uploads and Image Storage" },
+  { "_id": "lesson-017", "title": "Securing Your MERN Application" },
+  { "_id": "lesson-018", "title": "Deploying MERN Applications to Heroku" },
+  { "_id": "lesson-019", "title": "Testing and Debugging in MERN" },
+  {
+    "_id": "lesson-020",
+    "title": "Project: Building a Full MERN Stack Application"
+  }
+]
