@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "0984320984309624098657",
+    "title": "Marketing Digital",
+    "content": "Empieza de nuevo o mejora tus habilidades—¡en solo unas semanas, domina las habilidades de marketing digital que necesitas para hacer crecer cualquier negocio en línea!",
+    "background": "bg-1"
+  },
+  {
+    "_id": "0984320984309624098655",
+    "title": "Ingeniería en Inteligencia Artificial",
+    "content": "De cero a héroe en IA con nuestro bootcamp para principiantes. Aprende y lanza tu carrera en la especialidad tech que más crece.",
+    "background": "bg-2"
+  },
+  {
+    "_id": "098432098430962409890",
+    "title": "Data Science y Machine Learning",
+    "content": "Domina las habilidades más demandadas en tech y abre puertas en cualquier sector que te apasione. eSports, FinTech, moda... ¡elige tu destino!",
+    "background": "bg-3"
+  }
+]

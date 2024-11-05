@@ -1,0 +1,46 @@
+.card-container {
+  box-sizing: border-box;
+  background-color: rgb(0, 94, 176);
+  color: aliceblue;
+  width: 20rem;
+  height: 27rem;
+  padding: 1rem 2rem;
+  border-radius: 1rem;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+
+  .card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  h3 {
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+
+  p {
+    font-size: 18px;
+  }
+
+  button {
+    background-color: aliceblue;
+    border: 2px solid #9a16f0;
+    color: #9a16f0;
+    height: 3rem;
+    border-radius: 3rem;
+  }
+}
+
+.bg-1 {
+  background: linear-gradient(to right, #3800eb, #f16ba7);
+}
+.bg-2 {
+  background: linear-gradient(to right, #2bcfc5, #4c53f1);
+}
+.bg-3 {
+  background: linear-gradient(to right, #c273f6, #2dc5fa);
+}
